@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nderightyacti.github.io/sitemap.html
+Sitemap: https://nderightyacti.github.io/app/sitemap.html
+Sitemap: https://nderightyacti.github.io/assets/sitemap.html
+Sitemap: https://nderightyacti.github.io/css/sitemap.html
+Sitemap: https://nderightyacti.github.io/includes/sitemap.html
+Sitemap: https://nderightyacti.github.io/item/sitemap.html
+Sitemap: https://nderightyacti.github.io/src/sitemap.html
